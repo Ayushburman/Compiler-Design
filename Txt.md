@@ -35,6 +35,7 @@
   - Predictive parsing (LL(1))
   - FIRST and FOLLOW computation
   - LL(1) parsing table construction, conflicts
+    
 - **Bottom-up parsing**
   - Shift-reduce parsing, handle pruning
   - Operator precedence parsing
