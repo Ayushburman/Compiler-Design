@@ -116,6 +116,8 @@
 - Grammar/CFG concepts overlap with TOC's CFG-PDA section — sequence them back to back.
 - SDT and type checking lean on Discrete Math (relations/functions) lightly, but mostly stand alone.
 
+- 
+
 Given how you've been pairing subjects by conceptual dependency, Compiler Design slots naturally right after TOC (since parsing theory builds directly on CFGs and automata) and before/alongside COA (since runtime environments and code generation connect to your CPU/memory work).
 
 Want me to turn this into your standard dark-themed single-file HTML roadmap with the six-phase structure and GATE trap callouts, like your other subject guides?
