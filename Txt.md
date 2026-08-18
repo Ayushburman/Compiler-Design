@@ -91,6 +91,7 @@
   - Dead code elimination
   - Loop optimizations: loop invariant code motion, induction variable elimination, strength reduction
   - Constant folding/propagation
+    
 
 ### 9. Code Generation
 - Issues in code generator design
