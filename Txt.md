@@ -12,6 +12,7 @@
 - Error handling (types of errors, error recovery strategies per phase)
 - Bootstrapping, cross-compilers (conceptual, low GATE weight but occasionally asked)
 
+
 ——-
 
 ### 2. Lexical Analysis
