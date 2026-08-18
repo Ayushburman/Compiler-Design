@@ -77,6 +77,7 @@
 - TAC generation for: expressions, assignment statements, boolean expressions, control flow (if/while/for), backpatching
 - Short-circuit code for boolean expressions
 
+
 ### 8. Code Optimization
 - **Local optimization**
   - Basic blocks — construction rules
