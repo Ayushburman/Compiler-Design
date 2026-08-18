@@ -24,7 +24,7 @@
 - Input buffering (sentinel-based buffering — occasionally asked)
 - Error recovery in lexical analysis
 
-
+——
 
 
 ### 3. Syntax Analysis (Parsing)
