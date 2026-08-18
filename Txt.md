@@ -98,7 +98,8 @@
 - Basic code generation algorithm (register/address descriptors)
 - Register allocation and assignment (graph coloring — conceptual)
 - Instruction selection basics
-- (Low weight in GATE — usually 0–1 question; skip deep dive unless time permits)
+- (Low weight in GATE — usually 0–1 question; skip deep dive unless time permit's
+  
 
 ---
 
