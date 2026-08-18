@@ -98,7 +98,6 @@
 - Instruction selection basics
 - (Low weight in GATE — usually 0–1 question; skip deep dive unless time permit's
   
-
 ——-
 
 ### High-yield areas (based on past GATE trends)
