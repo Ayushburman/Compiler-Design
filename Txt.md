@@ -68,6 +68,7 @@
 - Static vs dynamic scoping
 - Symbol table implementation across nested scopes
 - Access to non-local names (static/dynamic links, displays) — mostly conceptual for GATE
+  
 
 ### 7. Intermediate Code Generation
 - Intermediate representations: postfix notation, three-address code (TAC), quadruples, triples, indirect triples
