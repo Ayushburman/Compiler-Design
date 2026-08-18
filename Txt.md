@@ -59,6 +59,7 @@
 - SDT schemes — translation during parsing
 - Bottom-up evaluation of S-attributed definitions
   
+  
 ### 5. Type Checking
 - Type expressions, type systems
 - Static vs dynamic type checking
