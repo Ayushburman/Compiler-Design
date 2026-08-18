@@ -60,6 +60,7 @@
 - Type equivalence (structural vs name)
 - Type conversion / coercion
 
+
 ### 6. Runtime Environments
 - Storage organization: code, static, stack, heap
 - Activation records — structure, fields
