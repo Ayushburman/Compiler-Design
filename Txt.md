@@ -1,6 +1,5 @@
 ## Compiler Design – GATE CSE Topic Breakdown
 
-
 **Official GATE CSE syllabus scope:** Lexical analysis, parsing, syntax-directed translation, runtime environments, intermediate code generation, local optimization, data flow analysis for global optimization. Here's the full expansion with subtopics, ordered the way you'd actually want to study them (phases of a compiler).
 
 
