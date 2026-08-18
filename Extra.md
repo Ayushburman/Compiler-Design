@@ -12,7 +12,6 @@ t
 u
 q
 i
-t
 w
 q
 s
