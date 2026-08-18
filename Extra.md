@@ -5,7 +5,6 @@ e
 r
 t
 y
-u
 l
 y
 r
