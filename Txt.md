@@ -101,7 +101,7 @@
 - (Low weight in GATE — usually 0–1 question; skip deep dive unless time permit's
   
 
----
+——-
 
 ### High-yield areas (based on past GATE trends)
 - LL(1) vs SLR vs CLR vs LALR — table construction and comparison (almost guaranteed 1–2 questions)
