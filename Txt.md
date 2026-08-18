@@ -3,7 +3,6 @@
 
 **Official GATE CSE syllabus scope:** Lexical analysis, parsing, syntax-directed translation, runtime environments, intermediate code generation, local optimization, data flow analysis for global optimization. Here's the full expansion with subtopics, ordered the way you'd actually want to study them (phases of a compiler).
 
-
 ### 1. Introduction to Compilers
 - Compiler vs interpreter vs assembler vs translator
 - Phases of a compiler (lexical → syntax → semantic → intermediate code → optimization → code gen)
