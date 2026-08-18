@@ -90,6 +90,7 @@
   - Control flow graph (CFG) construction
   - DAG representation of basic blocks, common subexpression elimination
   - Peephole optimization techniques
+    
 - **Global (data-flow-based) optimization**
   - Data flow analysis: reaching definitions, available expressions, live variable analysis, use-def chains
   - Global common subexpression elimination
