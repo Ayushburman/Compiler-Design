@@ -48,6 +48,8 @@
 - Ambiguous grammar handling, operator precedence/associativity rules
 - Parser conflicts: shift-reduce, reduce-reduce
 
+  
+
 ### 4. Syntax-Directed Translation (SDT)
 - Syntax-directed definitions (SDD)
 - Synthesized vs inherited attributes
