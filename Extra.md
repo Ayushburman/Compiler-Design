@@ -11,6 +11,5 @@ r
 t
 u
 q
-w
 q
 s
