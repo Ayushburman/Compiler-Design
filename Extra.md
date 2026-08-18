@@ -9,7 +9,6 @@ y
 y
 r
 t
-y
 u
 q
 i
