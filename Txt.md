@@ -13,7 +13,6 @@
 - Error handling (types of errors, error recovery strategies per phase)
 - Bootstrapping, cross-compilers (conceptual, low GATE weight but occasionally asked)
 
-
 ### 2. Lexical Analysis
 - Role of lexical analyzer, tokens/lexemes/patterns
 - Regular expressions → NFA (Thompson's construction)
