@@ -27,6 +27,8 @@
 - Error recovery in lexical analysis
 
 
+
+
 ### 3. Syntax Analysis (Parsing)
 - Context-free grammars — derivations, parse trees, ambiguity
 - Left recursion elimination, left factoring
