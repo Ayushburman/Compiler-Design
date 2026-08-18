@@ -121,6 +121,7 @@
 - Regex → NFA → DFA overlaps directly with your TOC roadmap — study lexical analysis right after finishing DFA/NFA equivalence in TOC.
 - Grammar/CFG concepts overlap with TOC's CFG-PDA section — sequence them back to back.
 - SDT and type checking lean on Discrete Math (relations/functions) lightly, but mostly stand alone.
+  
 
 - 
 
