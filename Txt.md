@@ -115,6 +115,7 @@
 - Basic blocks, CFG, DAG-based local optimization
 - Activation records and parameter passing semantics
 - Ambiguous grammar / grammar-to-language mapping (often mixed with TOC)
+  
 
 ### Where this overlaps with your other subjects
 - Regex → NFA → DFA overlaps directly with your TOC roadmap — study lexical analysis right after finishing DFA/NFA equivalence in TOC.
