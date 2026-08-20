@@ -1,4 +1,4 @@
-If you’re looking for Compiler Design projects, you can build them progressively—from very small lexical-analysis projects to a complete mini-compiler.
+
 
 🟢 Beginner Projects
 
