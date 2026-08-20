@@ -1,4 +1,3 @@
 abcd
 g
 e
-t
